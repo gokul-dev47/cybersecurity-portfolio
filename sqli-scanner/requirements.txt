@@ -1,0 +1,5 @@
+# sqli_scanner.py — Python dependencies
+# Install with: pip install -r requirements.txt
+
+requests>=2.28.0
+colorama>=0.4.6
