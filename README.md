@@ -4,7 +4,6 @@ Web application security tools, vulnerability scanners, and CTF writeups.
 
 ## Contents
 
-- **headers-analyzer/** — HTTP security headers analyzer
 - **sqli-scanner/** — SQL injection vulnerability scanner for web applications
 
 ## ⚠️ Legal Disclaimer
